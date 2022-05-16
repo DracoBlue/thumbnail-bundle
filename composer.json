@@ -19,7 +19,7 @@
     "sort-packages": true
   },
   "require": {
-    "pimcore/pimcore": ">=6.0 <7.0",
+    "pimcore/pimcore": "^10.4",
     "symfony/messenger": "^4.3",
     "ext-redis": ">=4.3"
   },
